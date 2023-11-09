@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voeldmort&theme=radical&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voeldmort&theme=radical&hide_border=false" width="50%" />
 </div>
 
 
