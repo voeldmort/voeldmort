@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Ranavijay Singh, aka @voeldmort!<br><br>🚀 Frontend Developer with a passion for FullStack Development.<br><br>💼 Currently contributing my skills at Genpact.<br><br>💡 Eagerly exploring new opportunities to grow and contribute.<br><br>📬 Reach out:<br><br>📧 Email: ranavijaysingh76@gmail.com<br>📱 Mobile: 9936071415<br>Let's code a brighter future together! 🌐✨
+👋 Hey there, I'm Ranavijay Singh, aka @voeldmort!<br><br>🚀 Frontend Developer with a passion for FullStack Development.<br><br>💼 Currently contributing my skills at Genpact.<br><br>💡 Eagerly exploring new opportunities to grow and contribute.<br><br>📬 Reach out:📧 Email: ranavijaysingh76@gmail.com<br>📱 Mobile: 9936071415<br>Let's code a brighter future together! 🌐✨
 
 
 ## 🌐 Socials:
