@@ -10,14 +10,16 @@
 # 📊 GitHub Stats:
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voeldmort&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voeldmort&theme=radical&hide_border=false" />
     <img src="https://github-readme-stats.vercel.app/api?username=voeldmort&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   </div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voeldmort&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="40%" />
 </div>
+
 
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voeldmort&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="40%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=voeldmort&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=voeldmort&theme=radical&hide_border=false" />
+
 
