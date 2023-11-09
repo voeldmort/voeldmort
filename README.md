@@ -18,5 +18,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=voeldmort&theme=radical&hide_border=false" width="50%" />
 </div>
 
- 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranavijay-singh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ranavijaysingh76) 
